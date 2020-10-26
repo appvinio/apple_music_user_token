@@ -1,0 +1,22 @@
+PODS:
+  - apple_user_token (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - apple_user_token (from `.symlinks/plugins/apple_user_token/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  apple_user_token:
+    :path: ".symlinks/plugins/apple_user_token/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  apple_user_token: 95c400936e3aee9a6ea57140b81c1af25bea5539
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
