@@ -1,7 +1,7 @@
 name: apple_user_token
 description: A new Flutter plugin.
 version: 0.0.1
-repository:
+repository: https://github.com/appvinio/apple_music_user_token
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
